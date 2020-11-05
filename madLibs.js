@@ -1,5 +1,5 @@
 function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
-    //Creating a Function for word blanks to be filled with any of the variables
+//Creating a Function for word blanks to be filled with any of the variables
     
     var result = "";
     result += "The " + myAdjective + " " + myNoun + " " + myVerb + " to the store " + myAdverb + ".";
